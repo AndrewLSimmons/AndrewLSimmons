@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1>Hi, I'm Andrew!
 
-<!--
-**AndrewLSimmons/AndrewLSimmons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 CyberSecurity Projects:</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Conducting a security audit</b>
+  - [Conducting a security audit]()
+- <b>Analyzing network structure and security</b>
+  - [Analyzing network structure and security]()
+- <b>Using Linux commands to manage file permissions</b>
+  - [Using Linux commands to manage file permissions]()
+- <b>Applying filters to SQL queries</b>
+  - [Applying filters to SQL queries]()
+- <b>Identifying vulnerabilities for a small business</b>
+  - [Identifying vulnerabilities for a small business]()
+- <b>Documenting incidents with an incident handler’s journal</b>
+  - [Documenting incidents with an incident handler’s journal]()
+- <b>Importing and parsing a text file in a security-related scenario</b>
+  - [Importing and parsing a text file in a security-related scenario]()
