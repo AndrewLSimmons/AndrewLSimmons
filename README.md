@@ -1,5 +1,5 @@
-<h1>Hi, I'm Andrew!
-CyberSecurity and IT Support Professional
+<h1>Hi, I'm Andrew!<br/>
+CyberSecurity and IT Support Professional</h1>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
