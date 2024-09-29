@@ -3,8 +3,8 @@ CyberSecurity and IT Support Professional</h1>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- <b>Conducting a security audit</b>
-  - [Conducting a security audit]()
+- <b>Credential Harvesting While Using Site Cloning</b>
+  - [Credential Harvesting While Using Site Cloning](https://github.com/AndrewLSimmons/CredentialHarvestingLab.git)
 - <b>Analyzing network structure and security</b>
   - [Analyzing network structure and security]()
 - <b>Using Linux commands to manage file permissions</b>
