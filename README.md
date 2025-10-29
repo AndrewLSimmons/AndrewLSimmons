@@ -33,7 +33,7 @@
 <h4><b>Offensive Security (ethical, lab‑only)</b></h4>
 <ul>
   <li><a href="https://github.com/AndrewLSimmons/Credential-Harvesting-Lab">credential-harvesting-lab</a> — Lab demonstrating phishing page cloning for authorized, defensive research; contains safety checklist, sanitized evidence, and mitigation guidance.</li>
-  <li><a href="https://github.com/AndrewLSimmons/nmapLab">nmapLab</a> — Nmap host‑scanning exercises and analysis in Kali Linux for authorized vulnerability discovery and defensive hardening.</li>
+  <li><a href="https://github.com/AndrewLSimmons/nmap-lab">nmap-lab</a> — Nmap host‑scanning exercises and analysis in Kali Linux for authorized vulnerability discovery and defensive hardening.</li>
 </ul>
 
 <h4><b>Technical Support & Automation</b></h4>
